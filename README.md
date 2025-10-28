@@ -51,6 +51,10 @@ Analiza un texto para contar:
 1. El usuario puede escribir el texto o leerlo desde un archivo .txt.
 2. El programa procesa y separa el contenido.
 3. Muestra los conteos correspondientes.
+### Ejemplo de ejecución
+Palabras: 12
+Frases: 3
+Párrafos: 1
 
 
 ---
