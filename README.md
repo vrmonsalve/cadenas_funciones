@@ -52,7 +52,51 @@ Analiza un texto para contar:
 2. El programa procesa y separa el contenido.
 3. Muestra los conteos correspondientes.
 
+
+---
+
+## 4) calculadora_modular.py
+
+### Descripción
+Calculadora con funciones que realiza:
+- Suma
+- Resta
+- Multiplicación
+- División
+- Módulo
+- Potencia
+
+Incluye un menú interactivo para elegir la operación.
+
 ### Ejemplo de ejecución
-Palabras: 12
+1.Sumar
+2.Restar
+3.Multiplicar
+4.Dividir
+5.Módulo
+6.Potencia
+
+
+---
+
+## 5) generador_contrasenas.py
+
+### Descripción
+Genera contraseñas aleatorias según la longitud deseada.  
+Permite escoger si incluir:
+- Mayúsculas
+- Minúsculas
+- Números
+- Símbolos
+
+### Ejemplo de ejecución
+Longitud de la contraseña: 12
+¿Minúsculas? (s/n): s
+¿Mayúsculas? (s/n): s
+¿Números? (s/n): s
+¿Símbolos? (s/n): s
+
+Contraseña generada:
+Aj4$kP9!tL2@
 Frases: 3
 Párrafos: 1
