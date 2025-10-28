@@ -1,24 +1,5 @@
 # Cadenas con Funciones — Python
 
-Este repositorio contiene tres programas en Python que trabajan con cadenas de texto utilizando funciones.  
-Cada uno realiza una tarea diferente:
-
-- Contar vocales, consonantes y espacios en una cadena.
-- Verificar si una cadena es un palíndromo.
-- Analizar un texto completo para contar palabras, frases y párrafos.
-
----
-
-## Archivos incluidos
-
-| Archivo | Descripción |
-|--------|-------------|
-| contar_caracteres.py | Cuenta vocales, consonantes y espacios en un texto ingresado. |
-| palindromo.py | Determina si una palabra o frase es un palíndromo. |
-| analizador_texto.py | Cuenta palabras, frases y párrafos en un texto. |
-
----
-
 ## 1) contar_caracteres.py
 
 ### Descripción
