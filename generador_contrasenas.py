@@ -1,4 +1,4 @@
-# Generador de contraseñas simple usando solo lo visto
+# Generador de contraseñas 
 def generar_contrasena(longitud):
     # Lista de caracteres posibles
     caracteres = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()"
