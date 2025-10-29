@@ -95,10 +95,7 @@ Permite escoger si incluir:
 
 ### Ejemplo de ejecución
 Longitud de la contraseña: 12
-¿Minúsculas? (s/n): s
-¿Mayúsculas? (s/n): s
-¿Números? (s/n): s
-¿Símbolos? (s/n): s
+GHD5#56e%7dG
 
 Contraseña generada:
 Aj4$kP9!tL2@
