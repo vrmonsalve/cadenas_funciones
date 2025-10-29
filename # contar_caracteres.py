@@ -24,7 +24,7 @@ def contar_espacios(texto):
 
 def main():
     texto = input("Escribe un texto: ")
-    vocales = contar_vocales(texto)
+    vocales = contar_vocales(texto) 
     consonantes = contar_consonantes(texto)
     espacios = contar_espacios(texto)
 
