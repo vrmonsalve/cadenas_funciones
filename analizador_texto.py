@@ -1,4 +1,4 @@
-# Analizador de texto simple
+# Analizador de texto 
 def contar_palabras(texto):
     palabras = texto.split()
     return len(palabras)
