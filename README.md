@@ -91,9 +91,7 @@ Permite escoger si incluir:
 
 ### Ejemplo de ejecución
 Longitud de la contraseña: 12
-GHD5#56e%7dG
 
 Contraseña generada:
 Aj4$kP9!tL2@
-Frases: 3
-Párrafos: 1
+
