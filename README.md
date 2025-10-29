@@ -67,8 +67,6 @@ Calculadora con funciones que realiza:
 - Resta
 - Multiplicación
 - División
-- Módulo
-- Potencia
 
 Incluye un menú interactivo para elegir la operación.
 
@@ -77,8 +75,6 @@ Incluye un menú interactivo para elegir la operación.
 2.Restar
 3.Multiplicar
 4.Dividir
-5.Módulo
-6.Potencia
 
 
 ---
