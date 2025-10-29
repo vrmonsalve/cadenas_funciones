@@ -14,4 +14,4 @@ def main():
         print("No es un palíndromo ❌")
 
 if __name__ == "__main__":
-    main()
+    main() 
